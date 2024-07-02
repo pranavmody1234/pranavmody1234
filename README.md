@@ -1,3 +1,5 @@
+<img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg">
+
 <h1 align="center">Hi 👋, I'm Pranav Mody</h1>
 <h3 align="center">A passionate Developer and Analyst in USA</h3>
 
