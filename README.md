@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [JSOM Web Development team](jindal.utdallas.edu)
 
-- 🌱 I’m currently learning **Python, NextJS, React JS,**
+- 🌱 I’m currently learning **Python, NextJS**
 
 - 🌐My Website [https://www.pranavmody.com](https://www.pranavmody.com)
 
-- 💬 Ask me about **HTML, CSS, JS, React, php, Mysql**
+- 💬 Ask me about **Web Development, Data Analysis, Data Engineering, Business Analystl**
 
 - 📫 How to reach me **pranav.mody10@gmail.com**
 
-- 📄 Know about my experiences [https://www.pranavmody.com/_files/ugd/268f29_e3fba60f893b43f9a83a7e0fcc57dc83.pdf](https://www.pranavmody.com/_files/ugd/268f29_e3fba60f893b43f9a83a7e0fcc57dc83.pdf)
+- 📄 Know about my experiences <a href="https://www.pranavmody.com/_files/ugd/268f29_e3fba60f893b43f9a83a7e0fcc57dc83.pdf" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
