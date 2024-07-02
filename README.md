@@ -1,4 +1,4 @@
-<img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
+<img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" height="80%">
 
 <h1 align="center">Hi 👋, I'm Pranav Mody</h1>
 <h3 align="center">A passionate Developer and Analyst in USA</h3>
