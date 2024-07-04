@@ -5,11 +5,11 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Coding" width="400" >
 
-- 🔭 I’m currently working on [JSOM Web Development team](jindal.utdallas.edu)
+- 🔭 I’m currently working as [JSOM Web Developer](jindal.utdallas.edu)
 
 - 🌱 I’m currently learning **Python, NextJS**
 
-- 🌐My Website [https://www.pranavmody.com](https://www.pranavmody.com)
+- 🌐 My Website [https://www.pranavmody.com](https://www.pranavmody.com)
 
 - 💬 Ask me about **Web Development, Data Analysis, Data Engineering, Business Analystl**
 
@@ -19,8 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pranav-mody/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-mody/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/iammodyji/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.linkedin.com/in/pranav-mody/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pranav-mody/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-mody/" height="30" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/iammodyji/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/iammodyji/"" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pranav.mody10@gmail.com" target="blank"><img align="center" src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" alt="https://www.linkedin.com/in/pranav-mody/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
