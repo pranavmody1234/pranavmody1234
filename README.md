@@ -5,7 +5,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Coding" width="400" >
 
-- 🔭 I’m currently working as [JSOM Web Developer](jindal.utdallas.edu)
+- 🔭 I’m currently working as [JSOM Web Developer](https://jindal.utdallas.edu)
 
 - 🌱 I’m currently learning **Python, NextJS**
 
