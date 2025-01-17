@@ -5,9 +5,11 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Coding" width="400" >
 
-- 🔭 I’m currently working as [JSOM Web Developer](https://jindal.utdallas.edu)
+- 🔭 I am a Graduate student from The University of Texas at Dallas [JSOM Web Developer](https://jindal.utdallas.edu)
 
-- 🌱 I’m currently learning **Python, NextJS**
+- 🔭 I worked as a [JSOM Web Developer](https://jindal.utdallas.edu/digital-services-and-analytics/students/)
+
+- 🌱 I’m currently learning **Python, MySQL, Tableau, Power BI**
 
 - 🌐 My Website [https://www.pranavmody.com](https://www.pranavmody.com)
 
