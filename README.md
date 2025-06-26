@@ -19,6 +19,9 @@
 
 - 📄 Know about my experiences <a href="https://www.pranavmody.com/_files/ugd/268f29_e3fba60f893b43f9a83a7e0fcc57dc83.pdf" target="_blank">Resume</a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavmody1234)](https://git.io/streak-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-mody/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-mody/" height="30" width="40" /></a> &nbsp;&nbsp;
