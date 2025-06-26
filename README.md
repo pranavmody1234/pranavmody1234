@@ -35,8 +35,6 @@ With 5+ years of hands-on experience, I bridge the gap between code and insight.
 
 ### 🚀 Projects
 
-### 🚀 Projects
-
 - **[Sentiment‑Analysis](https://github.com/pranavmody1234/Sentiment-Analysis)**  
   Jupyter‑Notebook based NLP sentiment analysis of textual data.
 
