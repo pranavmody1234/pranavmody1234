@@ -31,19 +31,30 @@ With 5+ years of hands-on experience, I bridge the gap between code and insight.
 <p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS"/>&nbsp; <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Google Cloud"/>&nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" title="Microsoft Azure"/>&nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>&nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins"/>&nbsp; <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow"/> </p>
 🧩 Tools & Platforms
 <p align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma"/>&nbsp; <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress"/>&nbsp; <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" title="Salesforce"/>&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>&nbsp; <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva"/> </p>
+---
+
 ### 🚀 Projects
 
-- **AI Research Assistant**  
-  LangChain + FastAPI-powered tool returning summarized research insights
+### 🚀 Projects
 
-- **Movie Recommender**  
-  Real-time NLP-based recommender using Python + Streamlit with cosine similarity
+- **[Sentiment‑Analysis](https://github.com/pranavmody1234/Sentiment-Analysis)**  
+  Jupyter‑Notebook based NLP sentiment analysis of textual data.
 
-- **ETL Pipeline for Food Aggregator**  
-  Snowflake-based pipeline processing 50K+ orders; Streamlit dashboard with KPIs
+- **[Data_Analysis_Project_1](https://github.com/pranavmody1234/Data_Analysis_Project_1)**  
+  Dataset exploration and visualization using Pandas and Matplotlib/Seaborn.
 
-- **CRUD App (Expo + React Native)**  
-  Cross-platform app with dark/light mode, persistent storage via AsyncStorage
+- **[PowerBI_Dashboard](https://github.com/pranavmody1234/PowerBI_Dashboard)**  
+  A polished Power BI interactive dashboard.
+
+- **[finance_hackathon](https://github.com/pranavmody1234/finance_hackathon)**  
+  Finance-themed hackathon project with data-driven insights.
+
+- **[Customer‑Complaint‑Tableau](https://github.com/pranavmody1234/Customer-Complaint-Tableau)**  
+  Interactive Tableau dashboard analyzing customer complaint trends.
+
+- **[StockAnalysis](https://github.com/pranavmody1234/StockAnalysis)**  
+  Time-series analysis and visualizations of stock market data.
+
 
 ---
 
